@@ -1,2 +1,5 @@
 # Puissance-4
-Puissance 4 en Java, ayant plusieurs modes de jeu : IA, simple, personnalisé.
+Adaptation du Puissance 4 en console.
+Modes de jeu : IA/Classique/Personnalisé.
+
+• Java
